@@ -39,9 +39,9 @@ const formattedPrice = ticketPrice.toFixed(2) + " €"; // Prezzo del biglietto 
 
 // Creare il messaggio finale da visualizzare
 const message = "Numero di chilometri: " + km + " Km Da Percorrere" + "<br>" +
-        "Prezzo del biglietto: " + formattedPrice + "<br>" +
-        "Età del passeggero: " + age + "<br>" +
-        "Sconto: " + discount + "%";
+                "Prezzo del biglietto: " + formattedPrice + "<br>" +
+                "Età del passeggero: " + age + "<br>" +
+                "Sconto: " + discount + "%";
 
 
 
